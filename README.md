@@ -1,2 +1,8 @@
 # mathematical-induction
-mathematical induction
+프로그래밍을 이용한 수학적 귀납법 증명
+
+수학 1에서 배울 수 있는 수학적 귀납법을 코드로 나타내어보았다.
+
+```
+ppt만들기 귀찮다...
+```
